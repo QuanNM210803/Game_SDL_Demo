@@ -1,0 +1,13 @@
+﻿Build started 22/3/2023 1:15:24 AM.
+     1>Project "D:\Game\GameSDLDemo\GameSDLDemo\GameSDLDemo.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Game\GameSDLDemo\Debug\GameSDLDemo.exe" /INCREMENTAL /NOLOGO SDL.lib SDLMain.lib SDL_image.lib SDL_mixer.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Game\GameSDLDemo\Debug\GameSDLDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Game\GameSDLDemo\Debug\GameSDLDemo.lib" /MACHINE:X86 Debug\BulletObject.obj
+         Debug\BaseObject.obj
+         Debug\Common_Function.obj
+         Debug\ExplosionObject.obj
+         Debug\main.obj
+         Debug\MainObject.obj
+         Debug\PlayerPower.obj
+         Debug\TextObject.obj
+         Debug\ThreatsObject.obj
+     0>MSBUILD : error MSB4166: Child node "2" exited prematurely. Shutting down. Diagnostic information may be found in files in the temporary files directory named MSBuild_*.failure.txt.
